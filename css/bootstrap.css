@@ -1,8 +1,25 @@
-.float-end{
-    width: 150px;
-    height: 150px;
+/*============================= header ========================*/
+
+header{
+    font-family: 'Orbitron', sans-serif;
 }
-.myImages{
-    width: 100%;
+
+.coloneLogo a{
+    height: auto;
+    width: auto;
+}
+
+.coloneLogo img{
+    height: 100px;
+}
+
+/*================================MAIN=======================*/
+
+.imgSlider{
     height: 600px;
+    object-fit: cover;
+}
+
+.cardSection{
+    margin-top: 50px;
 }
